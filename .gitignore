@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+sanity/node_modules
 
 # testing
 /coverage
@@ -30,7 +31,11 @@ yarn-error.log*
 
 # vercel
 .vercel
+# live settings - https://vercel.com/flatout007/portfolio/4y4iKxaQA5QmGZYXSopYCat3c5p8
+# live app - https://portfolio-biq8wzlpt-flatout007.vercel.app/
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.vercel
